@@ -3,4 +3,4 @@
  Project will involve replacing the electronics box of the seismometer with a Raspberry Pi.
 ## Instructions
  *Use the following:* https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/  
- *Installation: https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/python-circuitpython#python-installation-of-ads1x15-library-2997261* or use setup.py  
+ For installation, enter: `$ pip install .` to run the setup.py file  
