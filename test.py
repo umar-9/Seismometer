@@ -1,5 +1,5 @@
-// Testing
-// Ensure to enable I2C on Pi
+# Testing
+# Ensure to enable I2C on Pi
 
 import board
 import busio
