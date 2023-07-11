@@ -1,6 +1,6 @@
 # https://pimylifeup.com/raspberry-pi-serial/
 # Test for the RS232 connector
-# Ensure to configure serial on the Pi, then restart
+# Ensure to configure serial on the Pi, then restart (see link)
 
 import time
 import serial
