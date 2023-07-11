@@ -4,4 +4,4 @@
 ## Instructions
  *Use the following:* https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/  
  For installation, enter the following to run the setup.py file  
- `python setup.py install` or `pip install `
+ `python setup.py install`
