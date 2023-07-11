@@ -6,3 +6,5 @@
  For installation, enter the following to run the setup.py file  
  `python setup.py install`
  Run the test.py file, and connect the RS232 board as inidicated here: https://pimylifeup.com/raspberry-pi-serial/
+   
+ If it doesn't work, try https://github.com/adafruit/Adafruit_Python_ADS1x15/tree/master
