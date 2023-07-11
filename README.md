@@ -5,3 +5,4 @@
  *Use the following:* https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/  
  For installation, enter the following to run the setup.py file  
  `python setup.py install`
+ Run the test.py file, and connect the RS232 board as inidicated here: https://pimylifeup.com/raspberry-pi-serial/
