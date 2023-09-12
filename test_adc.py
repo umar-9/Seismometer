@@ -15,7 +15,7 @@ ads = ADS.ADS1015(i2c)
 # Create single-ended input on channel 0
 chan = AnalogIn(ads, ADS.P0)
 
-# ONLY USE UP TO 3V for testing
+# Testing: Use gain of 1 with voltage range of +-4V
 # Uncomment in real system - test voltages first
 # ads.gain = 16 # Supposed to be 100 minimum according to the instruction manual, but only 2/3, 1, 2, 4, 8, 16 available
 
