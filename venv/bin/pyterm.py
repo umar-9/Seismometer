@@ -1,4 +1,4 @@
-#!/home/mint/Desktop/Seismometer/venv/bin/python
+#!/home/kinghos/Desktop/Seismometer/venv/bin/python
 
 """Simple Python serial terminal
 """

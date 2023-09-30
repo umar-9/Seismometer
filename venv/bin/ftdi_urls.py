@@ -1,4 +1,4 @@
-#!/home/mint/Desktop/Seismometer/venv/bin/python
+#!/home/kinghos/Desktop/Seismometer/venv/bin/python
 
 # Copyright (c) 2019-2022, Emmanuel Blot <emmanuel.blot@free.fr>
 # All rights reserved.
